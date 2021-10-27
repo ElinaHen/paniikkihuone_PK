@@ -1,3 +1,3 @@
 # paniikkihuone_PK
 
-Hello world.Linda
+Hello world.Linda fix gitconfig
